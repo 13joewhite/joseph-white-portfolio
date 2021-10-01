@@ -11,6 +11,10 @@
     color: white;
 }
 
+.grey {
+    color: rgba(83, 83, 83, 0.972);
+}
+
 .hr {
     width: 90%;
     margin-bottom: 20px;
