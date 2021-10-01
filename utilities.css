@@ -11,6 +11,11 @@
     color: white;
 }
 
+.hr {
+    width: 90%;
+    margin-bottom: 20px;
+}
+
 /* Button */
 .btn {
     cursor: pointer;
