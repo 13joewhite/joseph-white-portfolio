@@ -75,7 +75,7 @@ img {
 
 /* header */
 .hero {
-    background: url('https://images.unsplash.com/photo-1564944062924-57874442ddea?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjF8fHNpbXBsZXxlbnwwfDB8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60') no-repeat center center/cover;
+    background: url('https://images.unsplash.com/photo-1543751416-705d3e34d02a?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTh8fHdvb2QlMjBiYWNrZ3JvdW5kfGVufDB8MHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60') no-repeat center center/cover;
     height: 100vh;
     position: relative;
     color: #ffffff;
@@ -92,7 +92,7 @@ img {
 }
 
 .hero .content .box {
-    background: #ff7e67c4;
+    background: #ff7e678e;
     margin: 10px;
     padding: 20px;
     border-radius: 15px;
