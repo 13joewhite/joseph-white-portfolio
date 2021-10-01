@@ -8,7 +8,7 @@
 
 body {
     font-family: 'Open Sans', sans-serif;
-    background: #35495e;
+    background: #336666;
     color: #333333;
     line-height: 1.6;
 }
@@ -48,7 +48,7 @@ img {
     position: fixed;
     top: 0px;
     padding: 0 30px;
-    z-index: 1;
+    z-index: 5;
 }
 
 .navbar a {
@@ -92,7 +92,8 @@ img {
 }
 
 .hero .content .box {
-    background: #ff7e67b4;
+    background: #42b88393;
+    border: white 2px solid;
     margin: 10px;
     padding: 20px;
     border-radius: 15px;
@@ -106,10 +107,6 @@ img {
     font-size: 23px;
     max-width: 600px;
     margin: 20px 0 30px;
-}
-
-.hero * {
-    z-index: 10;
 }
 
 /* about */
@@ -141,7 +138,7 @@ img {
     padding: 10px 30px;
     margin-bottom: 20px;
     color: #ffffff;
-    background-color: #ff7e67ce;
+    background-color: #42b883;
     color: #ffffff;
     border-radius: 25px;
 }
