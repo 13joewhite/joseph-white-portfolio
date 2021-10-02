@@ -30,6 +30,10 @@
     color: #ffffff;
 }
 
+.btn:hover {
+    background-color: #42b883a8;
+}
+
 .btn-secondary, .bg-secondary {
     cursor: pointer;
     display: inline-block;
@@ -39,6 +43,11 @@
     color: #ffffff;
 
 }
+
+.btn-secondary:hover {
+    background-color: #ff7e67;
+}
+
 .btn-dark, .bg-dark {
     background: #333333;
     color: #ffffff;

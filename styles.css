@@ -99,6 +99,10 @@ img {
     border-radius: 15px;
 }
 
+.hero .content .box .school-hover:hover {
+    text-decoration: underline #ff7e67;
+}
+
 .hero .content h1 {
     font-size: 55px;
 }
@@ -143,6 +147,10 @@ img {
     border-radius: 25px;
 }
 
+.about .about-container .resumeBtn:hover {
+    background-color: #42b8839a;
+}
+
 /* project */
 .project_title {
     display: flex;
@@ -178,7 +186,6 @@ img {
     padding: 30px;
     padding-bottom: 10px;
     width: 35vw;
-    height: 50vh;
     position: relative;
     top: 60px;
     z-index: 2;
