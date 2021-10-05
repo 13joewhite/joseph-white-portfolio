@@ -226,3 +226,7 @@ img {
 .footer .social > * {
     margin: 0 30px;
 }
+
+.footer i {
+    margin-top: 20px;
+}
