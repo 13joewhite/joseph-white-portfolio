@@ -320,7 +320,8 @@ img {
     }
 
     .about-container .title img {
-        height: 50%;
+        height: 45vh;
+        width: 50%;
     }
 
     .footer {
