@@ -319,6 +319,10 @@ img {
         font-size: 20px;
     }
 
+    .about-container .title img {
+        height: 45vh;
+    }
+
     .footer {
         background: #347474;
         display: flex;
